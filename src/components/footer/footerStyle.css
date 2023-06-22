@@ -1,0 +1,15 @@
+.containerHeader{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+    background-color: rgb(22, 22, 22);
+    height: 20%;
+    box-shadow: rgba(219, 219, 219, 0.35) 0px 5px 15px;
+}
+#imageLogo{
+    width: 100px;
+    border-radius: 100px;
+    box-shadow: rgba(219, 219, 219, 0.35) 0px 5px 15px;
+}

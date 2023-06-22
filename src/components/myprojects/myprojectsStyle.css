@@ -1,0 +1,33 @@
+.containerCardsProjects{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-bottom: 20px;
+    border-top: 3px solid #fff;
+    
+}
+
+.containerCardsProjects a{
+    color: rgba(51, 51, 51, 0.867);;
+}
+
+.cardProject{
+    background-color: #D9D9D9;
+    color: rgba(51, 51, 51, 0.867);
+    width: 20rem; 
+    height: 30rem; 
+    margin-bottom: 20px;
+    box-shadow: rgba(218, 218, 219, 0.425) 0px 7px 29px 0px;
+    margin: 20px;
+}
+
+.cardProjectBody{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: justify;
+    
+}
